@@ -1,0 +1,33 @@
+{
+  "chapters" : [
+    {
+      "startTime" : 0,
+      "title" : "Hook"
+    },
+    {
+      "startTime" : 349,
+      "title" : "1 · Die KI-Woche"
+    },
+    {
+      "startTime" : 577,
+      "title" : "2 · Blase oder Revolution?"
+    },
+    {
+      "startTime" : 877,
+      "title" : "3 · Jobs: Trifft es uns zuerst?"
+    },
+    {
+      "startTime" : 1423,
+      "title" : "4 · Macht & Sicherheit"
+    },
+    {
+      "startTime" : 1813,
+      "title" : "5 · Europa & Deutschland"
+    },
+    {
+      "startTime" : 2533,
+      "title" : "6 · Schnellrunde"
+    }
+  ],
+  "version" : "1.2.0"
+}
