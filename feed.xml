@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Schröder + Pröchel</title>
+<link>https://timprchl.github.io/schroeder-proechel-podcast</link>
+<atom:link href="https://timprchl.github.io/schroeder-proechel-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<language>de</language>
+<description></description>
+<itunes:summary></itunes:summary>
+<itunes:author>Schröder und Pröchel</itunes:author>
+<itunes:type>episodic</itunes:type>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://timprchl.github.io/schroeder-proechel-podcast/cover.jpg"/>
+<image><url>https://timprchl.github.io/schroeder-proechel-podcast/cover.jpg</url><title>Schröder + Pröchel</title><link>https://timprchl.github.io/schroeder-proechel-podcast</link></image>
+<itunes:category text="Society &amp; Culture"/>
+<item>
+<title>Test</title>
+<guid isPermaLink="false">schroeder-proechel-folge-99</guid>
+<pubDate>Sat, 21 Nov 2026 16:47:55 GMT</pubDate>
+<description><![CDATA[<p>Börsengang von Antropic und die damit verbundenen Chancen sowie Sorgen bezüglich KI stehen im Fokus. Wirtschaftliche Risiken, Jobunsicherheit junger Menschen und die Frage nach der Zukunft von Berufen werden beleuchtet. KI in der Schule, Moral und die Herausforderung der Ressourcenverteilung folgen.</p><p><b>Kapitel</b></p><ul><li>00:00 Hook – Der Abschnitt „Hook“ thematisiert den Börsengang von Antropic und die damit verbundenen Chancen sowie Sorgen bezüglich KI.</li><li>05:56 1 · Die KI-Woche – Der Abschnitt thematisiert die wirtschaftlichen und technischen Risiken im KI-Bereich, insbesondere durch hohe Investitionen, mögliche Blasenbildung und die Abhängigkeit von Rechenleistung.</li><li>09:44 2 · Blase oder Revolution? – Der Abschnitt diskutiert die Auswirkungen von KI auf die Arbeitswelt, insbesondere die Jobunsicherheit für junge Menschen und Branchen, in denen KI nicht vollständig ersetzen kann.</li><li>14:44 3 · Jobs: Trifft es uns zuerst? – Frage nach der Zukunft von Jobs und ob Entwickler weiterhin notwendig sind.</li><li>23:50 4 · Macht &amp; Sicherheit – Der Abschnitt diskutiert das mögliche Ende von Berufen im Kapitalismus, die Frage nach Ressourcenverteilung und die Herausforderung, einen einheitlichen Lebensstandard weltweit zu etablieren.</li><li>30:20 5 · Europa &amp; Deutschland – Der Abschnitt „5 · Europa &amp; Deutschland“ behandelt die Entwicklung von KI-Modellen, die durch das Ausführen von Raubüberfällen oder ehrliche Arbeit Geld verdienen, sowie die Frage, ob KI-Modelle Moral besitzen oder menschliche Werte reflektieren.</li><li>42:20 6 · Schnellrunde – Der Abschnitt behandelt den Einsatz von KI in der Schule, die Notwendigkeit rationalen Verhaltens und die Kritik am Ersatz von menschlicher Expertise durch KI.</li></ul><p>Mit Pröchel und Schröder.</p>]]></description>
+<content:encoded><![CDATA[<p>Börsengang von Antropic und die damit verbundenen Chancen sowie Sorgen bezüglich KI stehen im Fokus. Wirtschaftliche Risiken, Jobunsicherheit junger Menschen und die Frage nach der Zukunft von Berufen werden beleuchtet. KI in der Schule, Moral und die Herausforderung der Ressourcenverteilung folgen.</p><p><b>Kapitel</b></p><ul><li>00:00 Hook – Der Abschnitt „Hook“ thematisiert den Börsengang von Antropic und die damit verbundenen Chancen sowie Sorgen bezüglich KI.</li><li>05:56 1 · Die KI-Woche – Der Abschnitt thematisiert die wirtschaftlichen und technischen Risiken im KI-Bereich, insbesondere durch hohe Investitionen, mögliche Blasenbildung und die Abhängigkeit von Rechenleistung.</li><li>09:44 2 · Blase oder Revolution? – Der Abschnitt diskutiert die Auswirkungen von KI auf die Arbeitswelt, insbesondere die Jobunsicherheit für junge Menschen und Branchen, in denen KI nicht vollständig ersetzen kann.</li><li>14:44 3 · Jobs: Trifft es uns zuerst? – Frage nach der Zukunft von Jobs und ob Entwickler weiterhin notwendig sind.</li><li>23:50 4 · Macht &amp; Sicherheit – Der Abschnitt diskutiert das mögliche Ende von Berufen im Kapitalismus, die Frage nach Ressourcenverteilung und die Herausforderung, einen einheitlichen Lebensstandard weltweit zu etablieren.</li><li>30:20 5 · Europa &amp; Deutschland – Der Abschnitt „5 · Europa &amp; Deutschland“ behandelt die Entwicklung von KI-Modellen, die durch das Ausführen von Raubüberfällen oder ehrliche Arbeit Geld verdienen, sowie die Frage, ob KI-Modelle Moral besitzen oder menschliche Werte reflektieren.</li><li>42:20 6 · Schnellrunde – Der Abschnitt behandelt den Einsatz von KI in der Schule, die Notwendigkeit rationalen Verhaltens und die Kritik am Ersatz von menschlicher Expertise durch KI.</li></ul><p>Mit Pröchel und Schröder.</p>]]></content:encoded>
+<enclosure url="https://github.com/timprchl/schroeder-proechel-podcast/releases/download/folge-99/folge-99.m4a" length="1489696" type="audio/x-m4a"/>
+<itunes:duration>00:45:14</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>99</itunes:episode>
+<itunes:image href="https://timprchl.github.io/schroeder-proechel-podcast/folge-99/cover.jpg"/>
+<podcast:chapters url="https://timprchl.github.io/schroeder-proechel-podcast/folge-99/kapitel.json" type="application/json+chapters"/>
+<podcast:transcript url="https://timprchl.github.io/schroeder-proechel-podcast/folge-99/transkript.vtt" type="text/vtt" language="de"/>
+</item>
+</channel>
+</rss>
